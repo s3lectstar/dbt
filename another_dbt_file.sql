@@ -1,0 +1,1 @@
+SELECT 'abcd' AS lol
